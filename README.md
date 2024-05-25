@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Geon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 
-![Geon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunGeongun&show_icons=true&theme=radical)
+![Geon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunGeongun&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunGeongun&layout=compact)
 
