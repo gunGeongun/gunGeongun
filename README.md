@@ -9,7 +9,7 @@
 
 
 
-<a href="https://github.com/gunGeongun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunGeongun&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide=javascript,EJS" /></a> 
+<a href="https://github.com/gunGeongun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunGeongun&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff&hide=javascript,EJS,css,html" /></a> 
 
 
 # 🏅 Solved.ac
