@@ -25,7 +25,7 @@
 
 # 📫 Contact
 <a href="velog.io/@geoooon">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
 
 </div>
