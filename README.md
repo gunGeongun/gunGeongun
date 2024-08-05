@@ -23,9 +23,16 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
+<div>
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+</div>
+
+
+
 # 📫 Contact
 <a href="https://velog.io/@geoooon/posts">
     <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
-
 </div>
