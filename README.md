@@ -7,7 +7,7 @@
 # 💻 EXP
 | Date | Name |
 |----|----|
-| 2024.09~ |GDG(Google Developer Groups)KNU 4기 Backend Member|
+| 2024.09~ |Google Developer Groups KNU 4기 Backend Member|
 | 2024.08 |카카오테크캠퍼스 아이디어톤|
 | 2024.06 |2024 KNU GLOW HACKATHON|
 | 2024.04~ |카카오테크캠퍼스 2기 Backend|
