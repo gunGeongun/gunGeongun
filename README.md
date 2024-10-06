@@ -24,6 +24,7 @@
 
 
 
+
 # 🏅 Solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kk6696)](https://solved.ac/kk6696/)
 
