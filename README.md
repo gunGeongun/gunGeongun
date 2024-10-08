@@ -5,13 +5,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Geon's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180" />
 
 # 💻 EXP
-| Date | Name |
-|----|----|
-| 2024.09 |2024 대구를 빛내는 해커톤|
-| 2024.09~ |Google Developer Groups KNU 4기 Backend Member|
-| 2024.08 |카카오테크캠퍼스 아이디어톤|
-| 2024.06 |2024 KNU GLOW HACKATHON|
-| 2024.04~ |카카오테크캠퍼스 2기 Backend|
+| 날짜 | 이름 | 비고 | 
+|----|----|----|
+| 2024.09 |2024 대구를 빛내는 해커톤|대상|
+| 2024.09~ |Google Developer Groups KNU 4기 Backend Member| |
+| 2024.08 |카카오테크캠퍼스 아이디어톤| |
+| 2024.06 |2024 KNU GLOW HACKATHON| |
+| 2024.04~ |카카오테크캠퍼스 2기 Backend| |
 
 
 
