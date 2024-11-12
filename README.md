@@ -47,7 +47,7 @@
 
 
 # 📫 Contact
-<a href="https://velog.io/@geoooon/posts">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
+<a href="https://geonit.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-F05032?style=for-the-badge&logo=tistory&logoColor=white" />
 </a>
 </div>
