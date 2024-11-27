@@ -8,6 +8,7 @@
 
 | 날짜 | 이름 | 비고 | 
 |----|----|----|
+| 2024.11 |카카오테크캠퍼스 최종발표|최우수상|
 | 2024.11 |GDG KNU VISION CHALLENGETHON| |
 | 2024.09 |2024 대구를 빛내는 해커톤|대상|
 | 2024.09~ |Google Developer Groups KNU 4기 Backend Member| |
