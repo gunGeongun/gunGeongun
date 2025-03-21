@@ -12,7 +12,7 @@
 | 2024.11 |카카오테크캠퍼스 2기 최종발표|최우수상|
 | 2024.11 |GDG KNU VISION CHALLENGETHON|README상|
 | 2024.09 |2024 대구를 빛내는 해커톤|대상|
-| 2024.09~ |Google Developer Groups KNU 4기 Backend Member| |
+| 2024.09 |Google Developer Groups KNU 4기 Backend Member| |
 | 2024.08 |카카오테크캠퍼스 아이디어톤| |
 | 2024.06 |2024 KNU GLOW HACKATHON| |
 | 2024.04~11 |카카오테크캠퍼스 2기 Backend|수료|
